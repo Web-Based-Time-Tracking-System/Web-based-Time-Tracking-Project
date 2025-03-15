@@ -1,3 +1,5 @@
+
+                                        PROPOSAL
 In today’s fast-paced and ever-evolving workplace environment, managing employee time effectively is a critical task for ensuring accurate payroll, optimizing productivity, and maintaining compliance with labour laws. Traditional methods of time tracking, such as paper forms, spreadsheets, and outdated software, are often riddled with inefficiencies, errors, and time-consuming processes. These outdated systems make it challenging for employees to accurately log their working hours, for managers to track employee performance, and for organizations to process payroll in a timely manner.
 The goal of this proposal is to introduce a Web-Based Time Tracking System that will automate and streamline the process of tracking employee working hours, calculating overtime, and generating real-time reports. By moving away from traditional methods and adopting a digital, user-friendly system, organizations can significantly reduce errors, improve operational efficiency, and enhance overall transparency in time management.
 
