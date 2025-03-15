@@ -1,3 +1,10 @@
+Team Members: and their role in building the project
+[Mohammedamin Tsadik ] – work-in front-end development, UI/UX design, and web accessibility.
+[Barento Hashum ] – work- in back-end development
+[Birhanu Mulu] – work- in system testing, quality assurance, and project documentation.
+[Boka Korjo] – work- in project management, customer communication, and requirements gathering.   
+[Bealu Girma]-Team Leader:
+
                                             Introduction
 
 In today’s fast-paced and ever-evolving workplace environment, managing employee time effectively is a critical task for ensuring accurate payroll, optimizing productivity, and maintaining compliance with labour laws. Traditional methods of time tracking, such as paper forms, spreadsheets, and outdated software, are often riddled with inefficiencies, errors, and time-consuming processes. These outdated systems make it challenging for employees to accurately log their working hours, for managers to track employee performance, and for organizations to process payroll in a timely manner.
@@ -69,10 +76,12 @@ Project Breakdown & Timeline
    
 o	Research and Requirement Gathering: Conduct interviews with users (employees and managers) to understand their specific needs and challenges. Define system requirements.
 o	Define System Features: Decide on core features (time tracking, overtime calculation, report generation, admin interface).
+
 3.	TUESDAY:
 
 o	Develop Time Tracking & Overtime Calculation: Start building the system for employees to log hours and automatically calculate overtime based on company rules.
 o	Set up Database: Implement a database to store employee hours securely.
+
 4.	WEDNESDAY:
 
 o	Develop Report Generation: Implement report generation (daily, weekly, monthly hours worked).
@@ -83,6 +92,7 @@ o	Admin Interface: Create an admin interface to manage and approve time logs.
    
 o	Testing: Conduct user testing with a small group of employees and managers to ensure the system is easy to use and works as expected.
 o	Feedback & Adjustments: Refine the system based on feedback from the testing phase.
+
 6.	FRIDAY:
 
 o	Deployment: Deploy the system to the production environment.
