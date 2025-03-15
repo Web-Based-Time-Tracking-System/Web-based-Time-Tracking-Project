@@ -16,7 +16,8 @@ The goal of this proposal is to introduce a Web-Based Time Tracking System that 
 Problem Domain Overview
 
 Time tracking is an essential task in many organizations to manage employee working hours, ensure accurate payroll, and track productivity. However, traditional methods like paper forms, spreadsheets, or outdated software often result in inefficiencies, inaccuracies, and confusion. These methods are prone to errors, lack real-time visibility, and make overtime calculation complicated.
-In many workplaces:
+
+  In many workplaces:
 
      •	Employees manually record their work hours on paper or digital timesheets.
      •	Managers spend considerable time verifying and correcting time entries.
@@ -26,7 +27,9 @@ In many workplaces:
 
 
 The goal of this project is to develop a web-based time tracking system that will simplify the process of tracking employee hours, automatically calculate overtime, and generate comprehensive reports with minimal human intervention.
+
 Specific Issues to Address
+
      1.	Inaccuracy in Time Entry: Employees might forget to log hours, or errors can occur when logging times manually.
      2.	Time-Consuming Manual Calculations: Managers often need to manually calculate overtime and total working hours, which takes up valuable 
         time.
