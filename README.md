@@ -5,7 +5,7 @@ The goal of this proposal is to introduce a Web-Based Time Tracking System that 
 
                                      Web-Based Time Tracking System Proposal	
 1. Problem Diagnosis:
-2. 
+   
 Problem Domain Overview
 
 Time tracking is an essential task in many organizations to manage employee working hours, ensure accurate payroll, and track productivity. However, traditional methods like paper forms, spreadsheets, or outdated software often result in inefficiencies, inaccuracies, and confusion. These methods are prone to errors, lack real-time visibility, and make overtime calculation complicated.
@@ -15,21 +15,29 @@ In many workplaces:
 •	Overtime calculations are manually performed, leading to inconsistencies.
 •	Generating reports for payroll or performance analysis is slow and error-prone.
 •	Data on employee work hours is often scattered across different systems, making it hard to access or analyse.
+
 The goal of this project is to develop a web-based time tracking system that will simplify the process of tracking employee hours, automatically calculate overtime, and generate comprehensive reports with minimal human intervention.
 Specific Issues to Address
-1.	Inaccuracy in Time Entry: Employees might forget to log hours, or errors can occur when logging times manually.
-2.	Time-Consuming Manual Calculations: Managers often need to manually calculate overtime and total working hours, which takes up valuable time.
-3.	Lack of Real-Time Monitoring: Without an automated system, managers cannot track employee hours in real-time, leading to issues such as missed overtime opportunities or unapproved excess hours.
-4.	Inefficient Report Generation: Compiling data from various sources for payroll or compliance reporting is time-consuming and prone to errors.
-5.	Poor Integration: In many systems, data is siloed, and there’s no easy way to integrate time-tracking information with payroll or accounting systems.
-Research & Insights
+     1.	Inaccuracy in Time Entry: Employees might forget to log hours, or errors can occur when logging times manually.
+     2.	Time-Consuming Manual Calculations: Managers often need to manually calculate overtime and total working hours, which takes up valuable 
+        time.
+     3.	Lack of Real-Time Monitoring: Without an automated system, managers cannot track employee hours in real-time, leading to issues such as 
+    missed overtime opportunities or unapproved excess hours.
+     4.	Inefficient Report Generation: Compiling data from various sources for payroll or compliance reporting is time-consuming and prone to 
+     errors.
+      5.	Poor Integration: In many systems, data is siloed, and there’s no easy way to integrate time-tracking information with payroll or 
+       accounting systems.
+       
+                             Research & Insights
+
 Through interviews with HR personnel, managers, and employees, we learned that:
 •	Many organizations still rely on outdated systems, leading to delays and frustration.
 •	Employees have trouble ensuring that their overtime is recorded correctly, leading to disputes.
 •	Managers spend a lot of time fixing and approving time logs.
 
-PROPOSAL TREATMENT
+                                      PROPOSAL TREATMENT
 Solution Overview
+
 We propose a web-based time tracking system that automates the time entry process, calculates overtime based on company policies, and generates real-time reports for payroll and analysis. The system will be designed with simplicity in mind, ensuring that both employees and managers can use it without extensive training.
 How We’ll Address the Problems
 •	Automated Time Tracking: Employees will clock in and out using the system. Their hours will be automatically recorded, reducing the chance of errors.
