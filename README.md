@@ -5,23 +5,25 @@ Team Members: and their role in building the project
 [Boka Korjo] – work- in project management, customer communication, and requirements gathering.   
 [Bealu Girma]-Team Leader:
 
-                                            Introduction
+                                            INTRODUCTION
 
 In today’s fast-paced and ever-evolving workplace environment, managing employee time effectively is a critical task for ensuring accurate payroll, optimizing productivity, and maintaining compliance with labour laws. Traditional methods of time tracking, such as paper forms, spreadsheets, and outdated software, are often riddled with inefficiencies, errors, and time-consuming processes. These outdated systems make it challenging for employees to accurately log their working hours, for managers to track employee performance, and for organizations to process payroll in a timely manner.
 The goal of this proposal is to introduce a Web-Based Time Tracking System that will automate and streamline the process of tracking employee working hours, calculating overtime, and generating real-time reports. By moving away from traditional methods and adopting a digital, user-friendly system, organizations can significantly reduce errors, improve operational efficiency, and enhance overall transparency in time management.
 
                                      Web-Based Time Tracking System Proposal	
-1. Problem Diagnosis:
+                                     
    
 Problem Domain Overview
 
 Time tracking is an essential task in many organizations to manage employee working hours, ensure accurate payroll, and track productivity. However, traditional methods like paper forms, spreadsheets, or outdated software often result in inefficiencies, inaccuracies, and confusion. These methods are prone to errors, lack real-time visibility, and make overtime calculation complicated.
 In many workplaces:
-•	Employees manually record their work hours on paper or digital timesheets.
-•	Managers spend considerable time verifying and correcting time entries.
-•	Overtime calculations are manually performed, leading to inconsistencies.
-•	Generating reports for payroll or performance analysis is slow and error-prone.
-•	Data on employee work hours is often scattered across different systems, making it hard to access or analyse.
+
+     •	Employees manually record their work hours on paper or digital timesheets.
+     •	Managers spend considerable time verifying and correcting time entries.
+     •	Overtime calculations are manually performed, leading to inconsistencies.
+     •	Generating reports for payroll or performance analysis is slow and error-prone.
+     •	Data on employee work hours is often scattered across different systems, making it hard to access or analyse.
+
 
 The goal of this project is to develop a web-based time tracking system that will simplify the process of tracking employee hours, automatically calculate overtime, and generate comprehensive reports with minimal human intervention.
 Specific Issues to Address
