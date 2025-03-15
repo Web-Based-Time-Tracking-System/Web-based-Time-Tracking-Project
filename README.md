@@ -1,9 +1,15 @@
 Team Members: and their role in building the project
+
 [Mohammedamin Tsadik ] – work-in front-end development, UI/UX design, and web accessibility.
+
 [Barento Hashum ] – work- in back-end development
+
 [Birhanu Mulu] – work- in system testing, quality assurance, and project documentation.
-[Boka Korjo] – work- in project management, customer communication, and requirements gathering.   
+
+[Boka Korjo] – work- in project management, customer communication, and requirements gathering. 
+
 [Bealu Girma]-Team Leader:
+
 
                                             INTRODUCTION
 
