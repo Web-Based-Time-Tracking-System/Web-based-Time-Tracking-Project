@@ -63,26 +63,33 @@ o	Benefit: The employee doesn’t need to manually track hours or worry about ov
 o	Benefit: The manager’s time spent on reviewing and approving timesheets is significantly reduced.
 
 3. Plan of Work:
+   
 Project Breakdown & Timeline
 1.	MONDAY:
+   
 o	Research and Requirement Gathering: Conduct interviews with users (employees and managers) to understand their specific needs and challenges. Define system requirements.
 o	Define System Features: Decide on core features (time tracking, overtime calculation, report generation, admin interface).
-2.	TUESDAY:
+3.	TUESDAY:
+
 o	Develop Time Tracking & Overtime Calculation: Start building the system for employees to log hours and automatically calculate overtime based on company rules.
 o	Set up Database: Implement a database to store employee hours securely.
-3.	WEDNESDAY:
+4.	WEDNESDAY:
+
 o	Develop Report Generation: Implement report generation (daily, weekly, monthly hours worked).
 o	Admin Interface: Create an admin interface to manage and approve time logs.
 
 
-4.	THURSDAY:
+5.	THURSDAY:
+   
 o	Testing: Conduct user testing with a small group of employees and managers to ensure the system is easy to use and works as expected.
 o	Feedback & Adjustments: Refine the system based on feedback from the testing phase.
-5.	FRIDAY:
+6.	FRIDAY:
+
 o	Deployment: Deploy the system to the production environment.
 o	User Training: Provide training for employees and managers to use the system effectively.
 
 Resources and Expertise
+
 •	Technologies:
 o	Front-End: Javascript, HTML5, CSS  for the user interface.
 o	Back-End: PHP for server-side logic.
@@ -99,6 +106,7 @@ Success Metrics
 •	Feedback from Users: Positive feedback regarding ease of use and functionality.
 
 Conclusion
+
 In conclusion, the proposed Web-Based Time Tracking System is designed to address the current inefficiencies and challenges that many organizations face when managing employee time and payroll. By automating time logging, overtime calculation, and report generation, the system not only reduces manual errors but also saves time for both employees and managers. The solution offers substantial business value, including increased efficiency, accuracy, cost savings, and compliance with labour laws.
 Through careful planning and execution, this project aims to simplify the process of time management, providing a reliable and transparent system that benefits both employees and employers. By implementing this system, businesses can expect faster payroll processing, fewer disputes over overtime, and improved decision-making through real-time data and comprehensive reports. Ultimately, the proposed system will streamline time tracking practices and lead to a more productive, organized, and compliant workplace.
 
